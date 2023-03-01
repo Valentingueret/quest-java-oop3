@@ -11,16 +11,16 @@ public class Nature {
         pingou.swimUp(1);
         pingou.getOut();*/
 
-        Eagle hawkeye = new Eagle("Hawkeye");
+        Eagle EyesCherry = new Eagle("Eyes Cherry");
         
-        hawkeye.takeOff();
-        hawkeye.ascend(120);
-        hawkeye.ascend(30);
-        hawkeye.glide();
-        hawkeye.descend(140);
-        hawkeye.land();
-        hawkeye.descend(9);
-        hawkeye.land();
+        EyesCherry.takeOff();
+        EyesCherry.ascend(120);
+        EyesCherry.ascend(30);
+        EyesCherry.glide();
+        EyesCherry.descend(140);
+        EyesCherry.land();
+        EyesCherry.descend(9);
+        EyesCherry.land();
         
     }
 }
